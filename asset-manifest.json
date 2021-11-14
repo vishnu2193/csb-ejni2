@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://vishnu2193.github.io/csb-ejni2/static/css/main.1fed842a.chunk.css",
+    "main.js": "https://vishnu2193.github.io/csb-ejni2/static/js/main.c211a5c9.chunk.js",
+    "main.js.map": "https://vishnu2193.github.io/csb-ejni2/static/js/main.c211a5c9.chunk.js.map",
+    "runtime-main.js": "https://vishnu2193.github.io/csb-ejni2/static/js/runtime-main.bad6ccee.js",
+    "runtime-main.js.map": "https://vishnu2193.github.io/csb-ejni2/static/js/runtime-main.bad6ccee.js.map",
+    "static/css/2.4ce9e501.chunk.css": "https://vishnu2193.github.io/csb-ejni2/static/css/2.4ce9e501.chunk.css",
+    "static/js/2.817e29f8.chunk.js": "https://vishnu2193.github.io/csb-ejni2/static/js/2.817e29f8.chunk.js",
+    "static/js/2.817e29f8.chunk.js.map": "https://vishnu2193.github.io/csb-ejni2/static/js/2.817e29f8.chunk.js.map",
+    "index.html": "https://vishnu2193.github.io/csb-ejni2/index.html",
+    "static/css/2.4ce9e501.chunk.css.map": "https://vishnu2193.github.io/csb-ejni2/static/css/2.4ce9e501.chunk.css.map",
+    "static/css/main.1fed842a.chunk.css.map": "https://vishnu2193.github.io/csb-ejni2/static/css/main.1fed842a.chunk.css.map",
+    "static/js/2.817e29f8.chunk.js.LICENSE.txt": "https://vishnu2193.github.io/csb-ejni2/static/js/2.817e29f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad6ccee.js",
+    "static/css/2.4ce9e501.chunk.css",
+    "static/js/2.817e29f8.chunk.js",
+    "static/css/main.1fed842a.chunk.css",
+    "static/js/main.c211a5c9.chunk.js"
+  ]
+}
